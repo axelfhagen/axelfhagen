@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Product+Builder;AI+%26+ML+Engineer;Full-Stack+Developer;Problem+Solver+%26+Innovation+Driver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Scientist+%26+Student;AI+Engineer+%7C+Statistician;Interested+in+Software+Development;Building+Data-Driven+Solutions)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
@@ -10,13 +10,14 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer and Product Builder** passionate about creating innovative solutions that tackle real-world problems. With a strong background in **Physics, Mathematics, and AI/ML**, I bridge the gap between complex technical challenges and user-centric products.
+I'm a **Physics & Mathematics student** at NTNU with a focus on data science and statistics. Currently working part-time as an **AI Engineer** while finishing my master's degree. I enjoy building software, though I'm more of a data person than a traditional developer.
 
-- 💻 **Software Engineer** - Building scalable applications and intelligent systems
-- 🎓 **Mathematical Engineering** background from Politecnico di Milano (AI & Deep Learning)
-- 🚀 **Product Builder** - From concept to deployment, I create software that makes a difference
-- 🤖 **AI/ML Engineer** - Developing intelligent solutions with **computer vision** and **deep learning**
-- 🎯 **Innovation Driver** - Turning cutting-edge research into practical, impactful products
+- 🎓 **MSc Student** - Physics & Mathematics at NTNU (Industrial Mathematics specialization)
+- 📊 **Data Scientist/Statistician** - With a growing interest in software development
+- 🤖 **AI Engineer** - Part-time at Kongsberg Discovery, working on computer vision systems
+- 💼 **Previous Experience** - Data/software roles at ABAX and KPMG
+- 🇮🇹 **Exchange Student** - Mathematical Engineering at Politecnico di Milano (AI & Deep Learning focus)
+- 🇯🇵 **International Experience** - Studied a semester at Kyushu University, Japan
 
 ## 💻 Tech Stack & Tools
 
@@ -25,7 +26,6 @@ I'm a **Software Engineer and Product Builder** passionate about creating innova
 ### 🚀 Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A8?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,74 +40,52 @@ I'm a **Software Engineer and Product Builder** passionate about creating innova
 ### ☁️ Cloud & DevOps
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=axelfhagen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelfhagen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=axelfhagen&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=axelfhagen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
-
-</div>
-
-## 🔥 What I'm Building
+## 💼 Current Work
 
 ```python
 class AxelHagen:
     def __init__(self):
-        self.role = "Software Engineer & Product Builder"
-        self.education = "MSc Physics & Mathematics @ NTNU"
-        self.mission = "Building software that solves real-world problems"
+        self.status = "MSc Student & Part-time AI Engineer"
+        self.current_focus = "Computer vision systems at Kongsberg Discovery"
+        self.education = "Physics & Mathematics @ NTNU"
         
-        self.expertise = [
-            "Full-Stack Development",
-            "AI/ML Product Development", 
-            "Scalable System Architecture",
-            "User-Centric Design"
+        self.work_experience = [
+            "Kongsberg Discovery (AI Engineer - current)",
+            "KPMG (Software Engineer)",
+            "ABAX (Software Engineer)"
         ]
         
-        self.currently_building = [
-            "Intelligent automation tools",
-            "Data-driven applications",
-            "ML-powered products"
+        self.currently_working_on = [
+            "AI models for underwater imaging",
+            "Statistical analysis and data modeling",
+            "Thesis research in industrial mathematics",
+            "Learning web development on the side"
         ]
     
-    def solve_problems(self):
-        return "Turning complex challenges into elegant solutions ⚡"
-        
-    def build_products(self):
-        return "From idea to impact - shipping software that matters 🚀"
+    def daily_routine(self):
+        return "Classes, coding, and solving interesting problems 🤓"
 ```
 
-## 🎯 Product Philosophy
+## 🎯 Approach
 
-<div align="center">
+I like building things that actually work and are useful to people. No need to overcomplicate it - just good software that solves real problems.
 
-```
-💡 Ideas → 🛠️ Code → 🚀 Products → 🌍 Impact
-```
+## 🌍 Other Stuff
 
-</div>
+- 🇮🇹 **Milan** - Studied AI and deep learning at Politecnico di Milano
+- 🇯🇵 **Japan** - Spent a semester at Kyushu University 
+- 🎙️ **Podcasting** - Host for Engineers Without Borders  
+- ⚡ **Events** - Enjoy organizing and bringing people together
+- 🎯 **Hackathons** - Always fun to build something in a weekend
 
-I believe in **building with purpose** - every line of code should solve a real problem and create meaningful value for users.
-
-## 🌟 Beyond Code
-
-- 🇮🇹 **International Experience** - Studied AI and deep learning in Milan
-- 🎙️ **Community Builder** - Podcast host for Engineers Without Borders  
-- ⚡ **Event Organizer** - Bringing tech communities together
-- 🚀 **Innovation Enthusiast** - Always exploring emerging technologies
-- 🎯 **Problem Solver** - From hackathons to production systems
-
-## 🤝 Let's Build Something Amazing Together!
+## 🤝 Let's Connect!
 
 <div align="center">
 
@@ -119,7 +97,7 @@ I believe in **building with purpose** - every line of code should solve a real 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### 💭 *"Building software that transforms ideas into impact"* ⚡
+### 💭 *"Turning data into insights, and occasionally into software"* 📊
 
 ![Profile Views](https://komarev.com/ghpvc/?username=axelfhagen&color=2E9EF7&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/axelfhagen?logo=github&style=for-the-badge&color=2E9EF7&labelColor=0D1117)
