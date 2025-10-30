@@ -78,7 +78,7 @@ I like building things that actually work and are useful to people. No need to o
 
 ## 🌍 Other Stuff
 
-- <img src="assets/esn-star.png" width="20"/> **ESN** - ESN volunteer, organizing big trips (100+ people) for exchange students in Trondheim
+- <img src="esn-star.png" width="20"/> **ESN** - ESN volunteer, organizing big trips (100+ people) for exchange students in Trondheim
 - 🎙️ **Podcasting** - Host for Engineers Without Borders Podcast
 - ⚡ **Events** - Enjoy organizing and bringing people together
 - 🏔️ **NTNUI Skiing and Mountaineering** Member of the Social Comittee, organising more lowkey events for the organisation.
