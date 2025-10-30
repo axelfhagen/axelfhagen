@@ -16,8 +16,8 @@ I'm a **Physics & Mathematics student** at NTNU with a focus on data science and
 - 📊 **Data Scientist/Statistician** - With a growing interest in software development
 - 🤖 **AI Engineer** - Part-time at Kongsberg Discovery, working on computer vision systems
 - 💼 **Previous Experience** - Data/software roles at ABAX and KPMG
-- 🇮🇹 **Exchange Student** - Mathematical Engineering at Politecnico di Milano (AI & Deep Learning focus)
-- 🇯🇵 **International Experience** - Studied a semester at Kyushu University, Japan
+- 🇮🇹 **Exchange Student** - 1 year Mathematical Engineering @ Politecnico di Milano (AI & Deep Learning focus)
+- 🇯🇵 **Exchange Student 2** - Studied a semester at Graduate School of Engineering @ Kyushu University, Japan
 
 ## 💻 Tech Stack & Tools
 
@@ -78,11 +78,10 @@ I like building things that actually work and are useful to people. No need to o
 
 ## 🌍 Other Stuff
 
-- 🇮🇹 **Milan** - Studied AI and deep learning at Politecnico di Milano
-- 🇯🇵 **Japan** - Spent a semester at Kyushu University 
-- 🎙️ **Podcasting** - Host for Engineers Without Borders  
+- <img src="assets/esn-star.png" width="20"/> **ESN** - ESN volunteer, organizing big trips (100+ people) for exchange students in Trondheim
+- 🎙️ **Podcasting** - Host for Engineers Without Borders Podcast
 - ⚡ **Events** - Enjoy organizing and bringing people together
-- 🎯 **Hackathons** - Always fun to build something in a weekend
+- 🏔️ **NTNUI Skiing and Mountaineering** Member of the Social Comittee, organising more lowkey events for the organisation.
 
 ## 🤝 Let's Connect!
 
