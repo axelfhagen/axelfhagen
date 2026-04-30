@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=physics+student+who+accidentally+became+an+AI+engineer;i+train+neural+nets+to+see+fish+underwater;statistician+in+recovery;organising+trips+for+100%2B+people+on+the+side)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=physics+student+who+accidentally+became+an+AI+engineer;i+train+neural+nets+to+see+fish+underwater;statistician+in+recovery;organising+trips+for+100%2B+people+on+the+side)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
@@ -101,7 +101,5 @@ I like building things that actually work and are useful to people. No need to o
 
 ### 💭 *"teaching computers to look at the ocean floor so i don't have to"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=axelfhagen&color=2E9EF7&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/axelfhagen?logo=github&style=for-the-badge&color=2E9EF7&labelColor=0D1117)
 
 </div>
