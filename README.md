@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=physics+student+who+accidentally+became+an+AI+engineer;i+train+neural+nets+to+see+fish+underwater;statistician+in+recovery;organising+trips+for+100%2B+people+on+the+side)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=physics+grad+who+accidentally+became+an+AI+engineer;i+train+neural+nets+to+see+fish+underwater;statistician+in+recovery;organising+trips+for+100%2B+people+on+the+side)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
@@ -10,11 +10,12 @@
 
 ## 🚀 About Me
 
-I'm a **Physics & Mathematics student** at NTNU with a focus on data science and statistics. Currently working part-time as an **AI Engineer** while finishing my master's degree. I enjoy building software, though I'm more of a data person than a traditional developer.
+I have an **MSc in Physics & Mathematics** from NTNU with a focus on data science and statistics, and I now work at **KPMG Norway**. I enjoy building software, though I'm more of a data person than a traditional developer.
 
-- 🎓 **MSc Student** - Physics & Mathematics at NTNU (Industrial Mathematics specialization)
+- 🎓 **MSc** - Physics & Mathematics at NTNU (Industrial Mathematics specialization)
+- 💼 **Now** - KPMG Norway
 - 📊 **Data Scientist/Statistician** - With a growing interest in software development
-- 🤖 **AI Engineer** - Part-time at Kongsberg Discovery, working on computer vision systems
+- 🤖 **AI Engineer** - Part-time at Kongsberg Discovery during my master's, working on computer vision systems
 - 💼 **Previous Experience** - Data/software roles at ABAX and KPMG
 - 🇮🇹 **Exchange Student** - 1 year Mathematical Engineering @ Politecnico di Milano (AI & Deep Learning focus)
 - 🇯🇵 **Exchange Student 2** - Studied a semester at Graduate School of Engineering @ Kyushu University, Japan
@@ -49,32 +50,36 @@ I'm a **Physics & Mathematics student** at NTNU with a focus on data science and
 ```python
 class AxelHagen:
     def __init__(self):
-        self.status = "MSc Student & Part-time AI Engineer"
-        self.current_focus = "Computer vision systems at Kongsberg Discovery"
+        self.status = "MSc in Physics & Mathematics (NTNU), now at KPMG Norway"
         
         self.work_experience = [
-            "Kongsberg Discovery (AI Engineer - current)",
+            "KPMG Norway (current)",
+            "Kongsberg Discovery (AI Engineer - part-time during MSc)",
             "KPMG (IT Consultant / Software Engineer)",
             "ABAX (Data Scientist)"
         ]
         
-        self.currently_working_on = [
+        self.recent_work = [
             "MSc thesis on validation & uncertainty of neural networks (w/ Kongsberg Discovery)",
             "AI models for underwater imaging",
             "Learning software development on the side"
         ]
     
     def daily_routine(self):
-        return "Classes, coding, and solving interesting problems 🤓"
+        return "Work, coding, and solving interesting problems 🤓"
 ```
 
 ## 📂 Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| [**first-website**](https://github.com/axelfhagen/first-website) | My personal website built in React |
-| [**nagi**](https://github.com/axelfhagen/nagi) | Back-to-basics social media platform |
-| [**LSTM-timeseries-forecasting**](https://github.com/axelfhagen/LSTM-timeseries-forecasting) | Time series forecasting using LSTM recurrent neural networks in TensorFlow |
+| [**stpetersburg-paradox**](https://github.com/axelfhagen/stpetersburg-paradox) | Simulating 10^13 coin flip games to see what an infinite expected value actually looks like |
+| [**AIS-forecast**](https://github.com/axelfhagen/AIS-forecast) | Predicting where cargo ships go from AIS data (group project at NTNU) |
+| [**CNN-plant-health-classifier**](https://github.com/axelfhagen/CNN-plant-health-classifier) | CNN that classifies healthy vs unhealthy plants (Polimi course competition) |
+| [**LSTM-timeseries-forecasting**](https://github.com/axelfhagen/LSTM-timeseries-forecasting) | Time series forecasting using LSTM recurrent neural networks in TensorFlow (Polimi course competition) |
+| [**plog-social**](https://github.com/axelfhagen/plog-social) | Photo sharing app for friends, FastAPI + Next.js (work in progress) |
+| [**first-website**](https://github.com/axelfhagen/first-website) | My personal website built in React, live at [axelf.no](https://axelf.no) |
+| [**nagi**](https://github.com/mikkelsvartveit/nagi) | Back-to-basics social media platform, I added profile bios |
 
 ## 🎯 Approach
 
@@ -94,6 +99,7 @@ I like building things that actually work and are useful to people. No need to o
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/axelhagen/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axel.hagen@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axelfhagen)
+[![Website](https://img.shields.io/badge/axelf.no-%2322C55E.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://axelf.no)
 
 <br>
 
