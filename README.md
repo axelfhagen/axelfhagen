@@ -2,25 +2,19 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=physics+grad+who+accidentally+became+an+AI+engineer;i+train+neural+nets+to+see+fish+underwater;statistician+in+recovery;organising+trips+for+100%2B+people+on+the+side)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=physics+grad+who+accidentally+became+an+AI+engineer;used+to+train+neural+nets+to+see+fish+underwater;statistician+in+recovery;organising+trips+for+100%2B+people+on+the+side)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
 </div>
 
-## 🚀 About Me
+## about me
 
-I have an **MSc in Physics & Mathematics** from NTNU with a focus on data science and statistics, and I now work at **KPMG Norway**. I enjoy building software, though I'm more of a data person than a traditional developer.
+I have an **MSc in Physics & Mathematics** (Industrial Mathematics) from NTNU with a focus on data science and statistics, and I now work at **KPMG Norway**. I enjoy building software, though I'm more of a data person than a traditional developer.
 
-- 🎓 **MSc** - Physics & Mathematics at NTNU (Industrial Mathematics specialization)
-- 💼 **Now** - KPMG Norway
-- 📊 **Data Scientist/Statistician** - With a growing interest in software development
-- 🤖 **AI Engineer** - Part-time at Kongsberg Discovery during my master's, working on computer vision systems
-- 💼 **Previous Experience** - Data/software roles at ABAX and KPMG
-- 🇮🇹 **Exchange Student** - 1 year Mathematical Engineering @ Politecnico di Milano (AI & Deep Learning focus)
-- 🇯🇵 **Exchange Student 2** - Studied a semester at Graduate School of Engineering @ Kyushu University, Japan
-
-## 💻 Tech Stack & Tools
+- 🎓 my thesis was on validation and uncertainty of neural networks, done together with Kongsberg Discovery
+- 🤖 before that i worked part-time as an AI engineer at Kongsberg Discovery (computer vision for underwater imaging), and in data/software roles at ABAX and KPMG
+- 🌍 exchange year in Mathematical Engineering at Politecnico di Milano (AI & deep learning), plus a semester at Kyushu University in Japan
 
 <div align="center">
 
@@ -44,55 +38,27 @@ I have an **MSc in Physics & Mathematics** from NTNU with a focus on data scienc
 
 </div>
 
-
-## 💼 Current Work
-
-```python
-class AxelHagen:
-    def __init__(self):
-        self.status = "MSc in Physics & Mathematics (NTNU), now at KPMG Norway"
-        
-        self.work_experience = [
-            "KPMG Norway (current)",
-            "Kongsberg Discovery (AI Engineer - part-time during MSc)",
-            "KPMG (IT Consultant / Software Engineer)",
-            "ABAX (Data Scientist)"
-        ]
-        
-        self.recent_work = [
-            "MSc thesis on validation & uncertainty of neural networks (w/ Kongsberg Discovery)",
-            "AI models for underwater imaging",
-            "Learning software development on the side"
-        ]
-    
-    def daily_routine(self):
-        return "Work, coding, and solving interesting problems 🤓"
-```
-
-## 📂 Featured Projects
+## stuff i've built
 
 | Project | Description |
 |---------|-------------|
 | [**stpetersburg-paradox**](https://github.com/axelfhagen/stpetersburg-paradox) | Simulating 10^13 coin flip games to see what an infinite expected value actually looks like |
 | [**AIS-forecast**](https://github.com/axelfhagen/AIS-forecast) | Predicting where cargo ships go from AIS data (group project at NTNU) |
+| [**MedicalQuestionAnswering**](https://github.com/axelfhagen/MedicalQuestionAnswering) | Answering medical questions with retrieval + BERT and FLAN-T5 (Polimi NLP group project) |
+| [**cryptopunks-trait-decomposition**](https://github.com/axelfhagen/cryptopunks-trait-decomposition) | NMF from scratch that pulls hats, hair and pipes out of CryptoPunk images |
 | [**CNN-plant-health-classifier**](https://github.com/axelfhagen/CNN-plant-health-classifier) | CNN that classifies healthy vs unhealthy plants (Polimi course competition) |
 | [**LSTM-timeseries-forecasting**](https://github.com/axelfhagen/LSTM-timeseries-forecasting) | Time series forecasting using LSTM recurrent neural networks in TensorFlow (Polimi course competition) |
 | [**plog-social**](https://github.com/axelfhagen/plog-social) | Photo sharing app for friends, FastAPI + Next.js (work in progress) |
 | [**first-website**](https://github.com/axelfhagen/first-website) | My personal website built in React, live at [axelf.no](https://axelf.no) |
-| [**nagi**](https://github.com/mikkelsvartveit/nagi) | Back-to-basics social media platform, I added profile bios |
 
-## 🎯 Approach
-
-I like building things that actually work and are useful to people. No need to overcomplicate it - just good software that solves real problems.
-
-## 🌍 when i'm not staring at a loss function
+## when i'm not staring at a loss function
 
 - <img src="esn-star.png" width="20"/> **ESN** - herding 100+ exchange students across Europe and hoping nobody gets lost
 - 🎙️ **Podcasting** - host for Engineers Without Borders Podcast (yes, engineers can talk)
 - 🏔️ **NTNUI Skiing and Mountaineering** - social committee member, convincing people that mountains are fun actually
 - ⚡ **Events** - if there's a spreadsheet and a group chat, i'm probably organizing something
 
-## 🤝 Let's Connect!
+## say hi
 
 <div align="center">
 
@@ -105,7 +71,7 @@ I like building things that actually work and are useful to people. No need to o
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### 💭 *"teaching computers to look at the ocean floor so i don't have to"*
+### 💭 *"used to teach computers to look at the ocean floor so i didn't have to"*
 
 
 </div>
